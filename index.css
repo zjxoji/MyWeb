@@ -1,0 +1,23 @@
+body {
+    background-color: #e6f0f0;
+    width: 600px;
+    margin: auto;
+  }
+  
+  .introduce {
+    margin: 20px 10px auto;
+    font-family: 'Courier', sans-serif;
+    font-size: 22px;
+    line-height:2;
+  }
+  
+  .introduce span {
+    color: #009bc6;
+    font-weight: bold;
+  }
+  
+  .introduce img {
+    width: 250px;
+    margin: 50px 60px 50px 10px;
+    float: left;
+  }
